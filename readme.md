@@ -1,8 +1,8 @@
 # Overview
-Basic CNN trained on the mnist digit dataset is applied to a drawing application using hand gesture implemented with media pipe. <br\ >
+Basic CNN trained on the mnist digit dataset is applied to a drawing application using hand gesture implemented with media pipe. 
 
-Pinch two fingers to draw <br\ >
-Slap the drawing to restart <br \> 
+Pinch two fingers to draw 
+Slap the drawing to restart 
 
 
 # Setup
